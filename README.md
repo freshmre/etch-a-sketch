@@ -1,5 +1,5 @@
 # etch-a-sketch
-Paint a resizable grid by hovering over the cells. Project for The Odin Project.
+Paint a resizable grid by hovering over the cells. A The Odin Project project.
 
 ![Heart](img/pixel-heart.png)
 
